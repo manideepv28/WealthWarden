@@ -1,0 +1,46 @@
+Warning: Maximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn&#x27;t have a dependency array, or one of the dependencies changes on every render.
+    at Dashboard (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/src/pages/dashboard.tsx:34:22)
+    at ProtectedRoute (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/src/App.tsx?v=JUfzHwpAxJsEnxoDMtgeC:25:27)
+    at Route (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=042305fd:323:16)
+    at Switch (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=042305fd:379:17)
+    at Router
+    at Provider (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-APXNPPBV.js?v=042305fd:58:15)
+    at TooltipProvider (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=042305fd:56:5)
+    at QueryClientProvider (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=042305fd:2805:3)
+    at App
+`DialogContent` requires a `DialogTitle` for the component to be accessible for screen reader users.
+
+If you want to hide the `DialogTitle`, you can wrap it with our VisuallyHidden component.
+
+For more information, see https://radix-ui.com/primitives/docs/components/dialog
+Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+Warning: Maximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn&#x27;t have a dependency array, or one of the dependencies changes on every render.
+    at Dashboard (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/src/pages/dashboard.tsx:34:22)
+    at ProtectedRoute (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/src/App.tsx?v=JUfzHwpAxJsEnxoDMtgeC:25:27)
+    at Route (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=042305fd:323:16)
+    at Switch (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=042305fd:379:17)
+    at Router
+    at Provider (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-APXNPPBV.js?v=042305fd:58:15)
+    at TooltipProvider (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=042305fd:56:5)
+    at QueryClientProvider (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=042305fd:2805:3)
+    at App
+at Dashboard (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/src/pages/dashboard.tsx:34:22)
+at ProtectedRoute (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/src/App.tsx?v=JUfzHwpAxJsEnxoDMtgeC:25:27)
+at Route (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=042305fd:323:16)
+at Switch (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=042305fd:379:17)
+at Router
+at Provider (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-APXNPPBV.js?v=042305fd:58:15)
+at TooltipProvider (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=042305fd:56:5)
+at QueryClientProvider (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=042305fd:2805:3)
+at App
+at t.value (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://d7bb18bc-0628-4e50-8561-c16f88702d34-00-361mon6rrkymo.kirk.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+`DialogContent` requires a `DialogTitle` for the component to be accessible for screen reader users.
+
+If you want to hide the `DialogTitle`, you can wrap it with our VisuallyHidden component.
+
+For more information, see https://radix-ui.com/primitives/docs/components/dialog
+Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+AuthPage render, isLogin: true
